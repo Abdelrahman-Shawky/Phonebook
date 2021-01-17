@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1576893786 source:c:\users\dido\desktop\term 2\programming\projects\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"phonebookfinal.h"
+
+1576893602 c:\users\dido\desktop\term 2\programming\projects\phonebook\phonebookfinal.h
+
+1577050362 source:c:\users\dido\desktop\term 2\programming\projects\phonebook\phonebookfinal.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"phonebookfinal.h"
+
